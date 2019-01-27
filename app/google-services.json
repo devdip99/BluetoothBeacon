@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "777926294273",
+    "firebase_url": "https://bluetoothbeacon-8fe77.firebaseio.com",
+    "project_id": "bluetoothbeacon-8fe77",
+    "storage_bucket": "bluetoothbeacon-8fe77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777926294273:android:6fde943ec273720c",
+        "android_client_info": {
+          "package_name": "com.example.android.bluetoothbeacon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777926294273-g4mblpbilllasao0o2gj01iqg52asb0v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.bluetoothbeacon",
+            "certificate_hash": "1189bc9655a720a4c16bb3a064456a6a7b28fdeb"
+          }
+        },
+        {
+          "client_id": "777926294273-0c97t5jchhshd4ou8fuak4uer43ji6ta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbUG4I6KrEL0r6qmojrokvSMJTxVS1Vxo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777926294273-0c97t5jchhshd4ou8fuak4uer43ji6ta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
